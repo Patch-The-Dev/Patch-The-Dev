@@ -1,4 +1,4 @@
-# PatchTheDev
+# PatchTheDev | **Code Portfolio Only**
 
 I'm Bilal Sguiri, a Roblox gameplay developer with 5+ years of experience building complete experiences and gameplay systems for clients and independent projects. I have a Master's in IT Engineering.
 
@@ -12,3 +12,5 @@ I work across server and client code, with a focus on combat, multiplayer gamepl
 - [Alchemystic](https://www.patchthedev.com/work/alchemystic): Gameplay development for Block Stud Games, including potion systems, quests, economy, and persistent player data.
 
 [Portfolio](https://www.patchthedev.com) · [More work](https://www.patchthedev.com/work) · [Contact](https://www.patchthedev.com/contact)
+
+**Note:** This profile is not a record of my professional activity. My contribution history is tied to a different GitHub account for organizational clarity and client privacy.
