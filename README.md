@@ -1,16 +1,14 @@
-## Hi there 👋
+# PatchTheDev
 
-<!--
-**Patch-The-Dev/Patch-The-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bilal Sguiri, a Roblox gameplay developer with 5+ years of experience building complete experiences and gameplay systems for clients and independent projects. I have a Master's in IT Engineering.
 
-Here are some ideas to get you started:
+I work across server and client code, with a focus on combat, multiplayer gameplay, progression, persistent data, and live game systems. My day-to-day work includes modular Luau, client-server networking, debugging, and profiling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** Luau, Roblox Studio, Rojo, Wally, Rokit, and Git. I use Rojo and Git to keep Roblox projects in a file-based, version-controlled workflow.
+
+## Selected work
+
+- [Pro Wrestling Leagues](https://www.patchthedev.com/work/pro-wrestling-leagues): Solo development of a multiplayer wrestling game with combat, reversals, stamina, lobbies, and progression.
+- [Alchemystic](https://www.patchthedev.com/work/alchemystic): Gameplay development for Block Stud Games, including potion systems, quests, economy, and persistent player data.
+
+[Portfolio](https://www.patchthedev.com) · [More work](https://www.patchthedev.com/work) · [Contact](https://www.patchthedev.com/contact)
