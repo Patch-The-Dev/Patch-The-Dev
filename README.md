@@ -13,4 +13,4 @@ I work across server and client code, with a focus on combat, multiplayer gamepl
 
 [Portfolio](https://www.patchthedev.com) · [More work](https://www.patchthedev.com/work) · [Contact](https://www.patchthedev.com/contact)
 
-**Note:** This profile is not a record of my professional activity. My contribution history is tied to a different GitHub account for organizational clarity and client privacy.
+**Note:** This profile is not a record of my professional activity. My contribution history is tied to a different GitHub account for organizational clarity and client privacy. You can play the full games: [Gun Runner](https://www.roblox.com/games/18336486336/Gun-Runner) and [Pro Wrestling Leagues](https://www.roblox.com/games/125171795730320/PRO-WRESTLING-LEAGUES).
